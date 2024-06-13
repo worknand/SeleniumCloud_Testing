@@ -1,0 +1,36 @@
+Web Automation With Selenium On Cloud
+Execute your automated test across 3000 + browsers, devices and platform.
+
+Pre-requisites
+Java (JDK 11 and above is recommended)
+
+Maven
+
+Git
+
+Getting Started
+Create Your LambdaTest Account
+
+https://accounts.lambdatest.com/dashboard
+
+Clone This Repository
+
+git clone https://github.com/Mukesh-50/automation-testing-on-cloud-demo.git
+
+Capability Generator
+
+https://www.lambdatest.com/capabilities-generator/
+
+
+Execute the test
+Get your username and access key from the lambda test and replace them in the "LTParallel" Java Class
+
+You can get a username and access key from the capability generator or account settings.
+
+Capability Generator
+
+Account Settings
+
+Execute below command
+  cd 
+  mvn clean test
